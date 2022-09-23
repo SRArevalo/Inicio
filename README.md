@@ -1,2 +1,2 @@
 # Inicio
-Archivo readme prueba
+Archivo prueba
